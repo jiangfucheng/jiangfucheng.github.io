@@ -1,1 +1,3 @@
 User-agent: *
+Disallow:
+Sitemap: https://jiangfucheng.github.io/sitemap.xml
