@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Fucheng Jiang&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 17 Sep 2023 20:33:22 +0800</lastBuildDate><atom:link href="https://jiangfucheng.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Sep 2023 23:16:55 +0800</lastBuildDate><atom:link href="https://jiangfucheng.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test2</title>
+      <link>https://jiangfucheng.github.io/posts/test2/</link>
+      <pubDate>Sun, 17 Sep 2023 23:16:55 +0800</pubDate>
+      
+      <guid>https://jiangfucheng.github.io/posts/test2/</guid>
+      <description>Test 2</description>
+    </item>
+    
     <item>
       <title>Test</title>
       <link>https://jiangfucheng.github.io/posts/test/</link>
